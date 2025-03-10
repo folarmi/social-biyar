@@ -5,3 +5,6 @@ export * from "./ForgotPassword";
 export * from "./ResetPassword";
 export * from "./VerifyEmail";
 export * from "./EmailSent";
+export * from "./dashboard/index";
+export * from "./dashboard/Content";
+export * from "./dashboard/Settings";

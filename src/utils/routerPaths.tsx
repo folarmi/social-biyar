@@ -1,0 +1,9 @@
+export const landingPage = "/";
+export const login = "/login";
+export const forgotPassword = "/forgot-password";
+export const resetPassword = "/reset-password";
+export const verifyEmail = "/verify-email";
+export const emailSent = "/email-sent";
+export const dashboard = "/dashboard";
+export const content = "/dashboard/content";
+export const settings = "/dashboard/settings";

@@ -45,7 +45,7 @@ const Login = () => {
           </Link>
         </Flex>
 
-        <Button className="mt-2 bg-blue-600 rounded-md py-6 text-sm font-medium">
+        <Button className="mt-2 bg-blue-600 rounded-md py-3 text-sm font-medium">
           Login
         </Button>
 
